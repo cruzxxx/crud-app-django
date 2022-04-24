@@ -3,6 +3,7 @@ node_modules
 /dist
 /bin
 /lib
+pyvenv.cfg
 
 # local env files
 .env.local
